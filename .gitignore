@@ -1,10 +1,18 @@
-*.iml
-.gradle
-.idea
-.DS_Store
-build
+# etc
 captures
 .externalNativeBuild
 .cxx
 local.properties
 xcuserdata
+
+# ide
+*.iml
+.idea
+
+# os
+.DS_Store
+
+# build
+bin/
+build/
+.gradle
